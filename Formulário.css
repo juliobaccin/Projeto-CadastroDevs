@@ -96,7 +96,7 @@ fieldset.grupo .campo{
     display: inline-block;
 }
 
-@media (max-width:400px) {
+@media (max-width:375px) {
     body{
     margin-left: 1%;
     margin-top: 25%;
@@ -104,13 +104,13 @@ fieldset.grupo .campo{
     }
 }
 
-@media (max-width:400px) {
+@media (max-width:375px) {
     .botao{
         margin-left: 24%;
     }
 }
 
-@media (max-width:400px) {
+@media (max-width:375px) {
     textarea{
         width: 97%;
     }
