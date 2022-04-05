@@ -26,8 +26,6 @@ body{
     background-size: cover;
     background-attachment: fixed;
     background-position: center bottom;
-    max-width: 100%;
-    overflow: auto;
     background-color: #d7dfe6;
     font-family: sans-serif;
     font-size: 1em;
@@ -35,7 +33,7 @@ body{
     margin-left: 36%;
     margin-top: 2%;
     justify-content: center;
-    font-weight: bolder;
+    font-weight: bold;
 }
 
 input, select, textarea, button{
@@ -50,7 +48,7 @@ input, select, textarea, button{
     margin-bottom: 0.2em;
     color: white;
     display: block;
-    font-weight: bolder;
+    font-weight: bold;
 }
 
 fieldset.grupo .campo{
@@ -95,3 +93,11 @@ fieldset.grupo .campo{
 #check{
     display: inline-block;
 }
+
+@media (max-width:600px) {
+    body{
+    margin-left: 11%;
+    margin-top: 25%;
+    }
+}
+    
