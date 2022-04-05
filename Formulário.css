@@ -25,13 +25,14 @@ body{
     background-image: url(fundo\ tecnologico.jpg);
     background-size: cover;
     background-attachment: fixed;
-    background-position: center bottom;
+    background-position: center center;
     background-color: #d7dfe6;
     font-family: sans-serif;
     font-size: 1em;
     color: white;
-    margin-left: 36%;
+    margin-left: 35%;
     margin-top: 2%;
+    padding-top: 8%;
     justify-content: center;
     font-weight: bold;
 }
@@ -96,7 +97,7 @@ fieldset.grupo .campo{
 
 @media (max-width:600px) {
     body{
-    margin-left: 11%;
+    margin-left: 1%;
     margin-top: 25%;
     }
 }
