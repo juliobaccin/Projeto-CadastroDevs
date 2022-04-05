@@ -95,10 +95,11 @@ fieldset.grupo .campo{
     display: inline-block;
 }
 
-@media (max-width:600px) {
+@media (max-width:400px) {
     body{
     margin-left: 1%;
     margin-top: 25%;
+    font-size: 6pt;
     }
 }
     
