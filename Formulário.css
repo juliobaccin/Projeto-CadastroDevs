@@ -6,13 +6,13 @@
 #titulo{
     font-family: sans-serif;
     color: #380b61;
-    margin-left: 7%;
+    margin-left: 3%;
 }
 
 #subtitulo{
     font-family: sans-serif;
     color: #380b61;
-    margin-left: 10%;
+    margin-left: 5%;
 }
 
 fieldset{
@@ -67,7 +67,7 @@ fieldset.grupo .campo{
     font-size: 1.2em;
     background: #59429d;
     border: 0;
-    margin: 10px;
+    margin: auto;
     color: #ffffff;
     padding: 0.2em 0.6em;
     box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
