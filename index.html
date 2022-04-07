@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div>
+    <div class="titulo">
         <h1 id="titulo">Cadastro de DEVs</h1>
         <p id="subtitulo">Complete suas informações</p>
         <br>
@@ -18,23 +18,23 @@
     <form class="forma">
         <fieldset class="grupo">
             <div class="campo">
-                <label for="nome"><strong>Nome</strong></label>
+                <label for="nome">Nome</label>
                 <input type="text" name="nome" id="nome" required>
             </div>
 
             <div class="campo">
-                <label for="sobrenome"><strong>Sobrenome</strong></label>
+                <label for="sobrenome">Sobrenome</label>
                 <input type="text" name="sobrenome" id="sobrenome" required>
             </div>
         </fieldset>
 
         <div class="campo">
-            <label for="email"><strong>Email</strong></label>
+            <label for="email">Email</label>
             <input type="email" name="email" id="email" required>
         </div>
 
         <div class="campo">
-            <label><strong>De qual lado da aplicação você desenvolve?</strong></label>
+            <label><strong>De qual lado da aplicação você desenvolve?/label>
             <label>
                 <input type="radio" name="devweb" value="frontend" checked>Front-End
             </label>
@@ -47,7 +47,7 @@
         </div>
 
         <div class="campo">
-            <label for="senioridade"><strong>Senioridade</strong></label>
+            <label for="senioridade">Senioridade</label>
             <select id="Senioridade">
                 <option selected disabled value="">Selecione</option>
                 <option value="Junior">Junior</option>
@@ -58,7 +58,7 @@
 
         <fieldset class="grupo">
             <div id="check">
-                <label for=""><strong>Selecione as tecnologias que utiliza</strong></label><br><br>
+                <label for=""> Selecione as tecnologias que utiliza</label><br><br>
                 <input type="checkbox" id="tecnologia1" name="tecnologia1" value="HTML" checked>
                 <label for="tecnologia1">HTML</label>
                 <input type="checkbox" id="tecnologia2" name="tecnologia2" value="CSS">
@@ -78,7 +78,7 @@
 
         <div class="campo">   
             <br>
-            <label for=""><strong>Conte um pouco da sua experiência</strong></label>
+            <label for="">Conte um pouco da sua experiência</label>
             <textarea name="experiência" id="experiência" cols="50" rows="6"></textarea>
         </div>
 

@@ -12,8 +12,7 @@
 
 #subtitulo{
     font-family: sans-serif;
-    color: white;
-    margin-left: 5%;
+    margin-left: 10%;
     font-weight: bold;
 }
 
@@ -26,16 +25,14 @@ body{
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
-    background-color: #d7dfe6;
-    font-family: sans-serif;
-    font-size: 1em;
-    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     justify-content: center;
-    font-weight: bold;
-    margin-left: 35%;
-    margin-right: auto;
-    margin-top: 2%;
-    padding-top: 8%;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    font-weight: 600;
 }
 
 input, select, textarea, button{
@@ -48,7 +45,6 @@ input, select, textarea, button{
 
 .campo label{
     margin-bottom: 0.2em;
-    color: white;
     display: block;
     font-weight: bold;
 }
@@ -67,6 +63,7 @@ fieldset.grupo .campo{
 
 .campo select option{
     padding-right: 1em;
+    background: #e0e0f8;
 }
 
 .campo input:focus, .campo select:focus, .campo textarea:focus{
@@ -96,22 +93,12 @@ fieldset.grupo .campo{
     display: inline-block;
 }
 
-@media (max-width:375px) {
-    body{
-    margin-left: 1%;
-    margin-top: 25%;
-    font-size: 6pt;
-    }
-}
-
-@media (max-width:375px) {
-    .botao{
-        margin-left: 24%;
-    }
-}
-
-@media (max-width:375px) {
-    textarea{
-        width: 97%;
+@media (max-width:415px) {
+    form{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100vw;
+    height: 100vh;
     }
 }
