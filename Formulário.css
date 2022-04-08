@@ -98,10 +98,8 @@ fieldset.grupo .campo{
 
 @media (max-width:415px) {
     form{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
+    padding-left: 0.5%;
     }
 }
