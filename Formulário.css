@@ -97,10 +97,20 @@ fieldset.grupo .campo{
     display: inline-block;
 }
 
-@media (max-width:415px) {
-    form{
-    width: 100%;
-    height: 100%;
-    padding-left: 0.5%;
+@media (max-width:450px) {
+    .forma{
+    display: block;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 100vw;
+    height: 70vh;
+    padding: 5px;
+    margin:0%;
+    }
+}
+
+@media (max-width:450px) {
+    textarea{
+        width: 100%;
     }
 }
