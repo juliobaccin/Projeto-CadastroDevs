@@ -7,7 +7,9 @@
  
 https://juliobaccin.github.io/Projeto-Formulario-Cadastro/
 
-<img width="500" height="500" src=https://github.com/juliobaccin/Projeto-Formulario-Cadastro/blob/main/Site%20Android.gif>
+<img width="400rem" height="400rem" src=https://github.com/juliobaccin/Projeto-Formulario-Cadastro/blob/main/Site%20Android.gif><img align="right" width="500rem" height="400rem" src=https://github.com/juliobaccin/Projeto-Formulario-Cadastro/blob/main/Sem%20t%C3%ADtulo.png>
+
+
 
 
 
