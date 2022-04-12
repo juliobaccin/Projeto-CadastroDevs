@@ -33,7 +33,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 100vw;
+    width: 100%;
     height: 100vh;
     color: white;
     font-weight: 600;
@@ -100,8 +100,6 @@ fieldset.grupo .campo{
 @media (max-width:450px) {
     .forma{
     display: block;
-    flex-direction: column;
-    flex-wrap: nowrap;
     width: 100vw;
     height: 70vh;
     padding: 5px;
