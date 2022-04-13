@@ -10,7 +10,16 @@
 https://juliobaccin.github.io/Projeto-Formulario-Cadastro/
  </p>
 
-<img src=https://github.com/juliobaccin/Projeto-Formulario-Cadastro/blob/main/Site%20Android.gif>
+ <div align="center">
+  <h3>
+    Apresentação do Site
+  </h3> 
+<img src="https://github.com/juliobaccin/Projeto-Formulario-Cadastro/blob/main/apresenta%C3%A7%C3%A3o%20site.gif">
+   <h3>
+    Responsividade
+  </h3> 
+<img src="https://github.com/juliobaccin/Projeto-Formulario-Cadastro/blob/main/responsividade.gif">
+</div>
 
 
 
