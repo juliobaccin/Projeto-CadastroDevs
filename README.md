@@ -14,7 +14,7 @@
   <h3>
     Apresentação do Site
   </h3> 
-<img src="https://github.com/juliobaccin/Projeto-Formulario-Cadastro/blob/main/apresenta%C3%A7%C3%A3o%20site.gif">
+<img src="https://github.com/juliobaccin/Projeto-Formulario-Cadastro/blob/main/Site.gif">
    <h3>
     Responsividade
   </h3> 
