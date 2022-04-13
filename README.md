@@ -20,14 +20,3 @@ https://juliobaccin.github.io/Projeto-Formulario-Cadastro/
   </h3> 
 <img src="https://github.com/juliobaccin/Projeto-Formulario-Cadastro/blob/main/responsividade.gif">
 </div>
-
-
-
-
-
-
-
- 
-
-
-
