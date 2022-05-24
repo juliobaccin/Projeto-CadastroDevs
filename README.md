@@ -1,5 +1,6 @@
 <h1 align="center">
  Projeto - formulário de cadastro
+</h1>
 
 <p align="center">
  Formulário para cadastro em <strong>HTML</strong> e <strong>CSS</strong>. Desenvolvido por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a>
